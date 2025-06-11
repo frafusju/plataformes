@@ -48,14 +48,5 @@ El repositori s'estructura en carpetes que corresponen als diferents mòduls o p
 *   `modulo1/`, `modulo2/`, ..., `modulo8/`: Corresponen als mòduls de contingut, amb les explicacions i activitats de cada tema.
 *   `LICENSE`: Informació sobre la llicència.
 *   `README.md`: Aquest mateix fitxer.
-*   `logo.png`: Imatge del curs.
-
-**Llicència:**
-
-Aquest material es distribueix sota la **llicència GPL-3.0** . Tota la documentació és lliure i pot **compartir-se i modificar-se sota les limitacions de la llicència Creative Commons BY-NC-SA** .
-
-**Autoria i Agraïments:**
-
-Els materials van ser desenvolupats per **José Domingo Muñoz Rodríguez** per al curs "Introducció a Proxmox VE" organitzat per la Conselleria d'Educació i Esport de la Junta d'Andalusia i dirigit a professorat de secundària . Agraïm la contribució d'altres col·laboradors com **Manuel Domínguez (mftienda)** i **Alberto Molina Coballes (albertomolina)**.
 
 Esperem que aquests materials us siguin d'utilitat per endinsar-vos en el món de la virtualització amb Proxmox VE i aplicar-la en la vostra tasca docent.
